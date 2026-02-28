@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "12月の雨",
+  "base_artist": "Yumi Arai",
+  "createdAt": "2026-02-28T12:44:29.944551Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "12月の雨",
+      "artist": "Naomi Kawashima",
+      "has_synced": false,
+      "path": "select/01_12月の雨_Naomi_Kawashima.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "12月の雨",
+      "artist": "川島なお美",
+      "has_synced": false,
+      "path": "select/02_12月の雨_川島なお美.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "12月の雨",
+      "artist": "Yumi Arai",
+      "has_synced": true,
+      "path": "select/03_12月の雨_Yumi_Arai.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "12月の雨 - December Rain / Jyunigatsu No Ame",
+      "artist": "Yumi Arai",
+      "has_synced": true,
+      "path": "select/04_12月の雨_-_December_Rain___Jyunigatsu_No_Ame_Yumi_Arai.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "12月の雨",
+      "artist": "荒井 由実",
+      "has_synced": false,
+      "path": "select/pl_01_12月の雨_荒井_由実.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "12月の雨",
+      "artist": "荒井 由実",
+      "has_synced": false,
+      "path": "select/pl_02_12月の雨_荒井_由実.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "12月の雨",
+      "artist": "荒井 由実",
+      "has_synced": false,
+      "path": "select/pl_03_12月の雨_荒井_由実.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "12月の雨",
+      "artist": "荒井 由実",
+      "has_synced": false,
+      "path": "select/pl_04_12月の雨_荒井_由実.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "12月の雨",
+      "artist": "荒井 由実",
+      "has_synced": false,
+      "path": "select/pl_05_12月の雨_荒井_由実.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "12月の雨",
+      "artist": "荒井 由実",
+      "has_synced": false,
+      "path": "select/pl_06_12月の雨_荒井_由実.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "12月の雨 [Live]",
+      "artist": "荒井 由実",
+      "has_synced": false,
+      "path": "select/pl_07_12月の雨_[Live]_荒井_由実.txt"
+    }
+  ]
+}
